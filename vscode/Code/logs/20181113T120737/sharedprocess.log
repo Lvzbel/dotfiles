@@ -1,0 +1,71 @@
+[2018-11-13 12:07:41.720] [sharedprocess] [info] main {"machineId":"688693ba4ea11fb6dec10aea7b1a39bd11a08b2f7c99da68bb8d3df559db3ab2"}
+[2018-11-13 12:07:41.902] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 12:07:41.949] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 12:07:41.967] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 12:07:42.012] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 12:07:42.660] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-13 12:07:43.732] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-13 12:07:44.129] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode-1.6.1
+[2018-11-13 12:07:44.145] [sharedprocess] [info] Deleted from disk ms-python.python-2018.9.2
+[2018-11-13 12:07:45.596] [sharedprocess] [info] Installing extension: bracket-pair-colorizer
+[2018-11-13 12:07:45.601] [sharedprocess] [info] Installing extension: dark-plus-material
+[2018-11-13 12:07:45.668] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 12:07:45.677] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 12:07:46.852] [sharedprocess] [info] Downloaded extension: dark-plus-material /tmp/1acbcbf6-d06c-48ba-bf15-6bcf6225f697
+[2018-11-13 12:07:46.860] [sharedprocess] [info] Downloaded extension: bracket-pair-colorizer /tmp/dfb28418-85c6-4b81-bc51-8f8e506f48f5
+[2018-11-13 12:07:47.000] [sharedprocess] [info] Extracted extension to /home/lvzbel/.vscode/extensions/.vangware.dark-plus-material-1.4.4: vangware.dark-plus-material-1.4.4
+[2018-11-13 12:07:47.001] [sharedprocess] [info] Renamed to /home/lvzbel/.vscode/extensions/vangware.dark-plus-material-1.4.4
+[2018-11-13 12:07:47.001] [sharedprocess] [info] Installation completed. vangware.dark-plus-material-1.4.4
+[2018-11-13 12:07:47.012] [sharedprocess] [info] Extensions installed successfully: vangware.dark-plus-material
+[2018-11-13 12:07:47.301] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 12:07:47.413] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-13 12:07:49.120] [sharedprocess] [info] Extracted extension to /home/lvzbel/.vscode/extensions/.coenraads.bracket-pair-colorizer-1.0.61: coenraads.bracket-pair-colorizer-1.0.61
+[2018-11-13 12:07:49.120] [sharedprocess] [info] Renamed to /home/lvzbel/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61
+[2018-11-13 12:07:49.120] [sharedprocess] [info] Installation completed. coenraads.bracket-pair-colorizer-1.0.61
+[2018-11-13 12:07:49.131] [sharedprocess] [info] Extensions installed successfully: coenraads.bracket-pair-colorizer
+[2018-11-13 12:07:49.286] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 12:07:49.323] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-13 12:08:21.729] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-11-13 12:12:42.062] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 12:17:42.104] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 12:22:42.138] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 12:27:42.180] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:03:45.643] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:08:45.685] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:13:45.724] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:18:45.769] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:23:45.811] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:28:45.851] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:33:45.893] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:38:45.937] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:43:45.975] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:48:46.016] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:49:06.553] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:49:06.685] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:49:06.689] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:49:06.692] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:49:06.749] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-13 13:49:06.756] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-13 13:49:06.763] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-13 13:49:20.440] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:49:20.443] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:49:20.444] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:49:20.495] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-13 13:49:20.502] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-13 13:49:20.509] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-13 13:53:46.057] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 13:58:46.097] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 14:03:46.375] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 14:24:43.206] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 14:29:43.662] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 14:34:43.709] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 14:39:43.756] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 14:44:43.800] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 14:49:43.839] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 14:54:43.869] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 14:59:43.911] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 15:04:44.060] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 15:09:44.093] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 15:14:44.126] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 15:19:44.168] [sharedprocess] [info] Scanned user extensions: 21
+[2018-11-13 15:24:44.206] [sharedprocess] [info] Scanned user extensions: 21

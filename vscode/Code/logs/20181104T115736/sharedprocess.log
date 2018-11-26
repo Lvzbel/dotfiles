@@ -1,0 +1,20 @@
+[2018-11-04 11:57:40.141] [sharedprocess] [info] main {"machineId":"688693ba4ea11fb6dec10aea7b1a39bd11a08b2f7c99da68bb8d3df559db3ab2"}
+[2018-11-04 11:57:40.253] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-04 11:57:40.295] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-04 11:57:40.303] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-04 11:57:40.340] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-04 11:57:41.357] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-04 11:57:41.376] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-04 11:57:41.389] [sharedprocess] [info] Deleted from disk dbaeumer.vscode-eslint-1.6.1
+[2018-11-04 11:57:41.389] [sharedprocess] [info] Deleted from disk dbaeumer.vscode-eslint-1.6.0
+[2018-11-04 11:57:41.394] [sharedprocess] [info] Deleted from disk ms-python.python-2018.9.1
+[2018-11-04 11:57:43.543] [sharedprocess] [info] Installing extension: es7-react-js-snippets
+[2018-11-04 11:57:43.560] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-04 11:57:43.961] [sharedprocess] [info] Downloaded extension: es7-react-js-snippets /tmp/9072c56b-21e1-49a3-b7fd-c0dabad271e7
+[2018-11-04 11:57:43.981] [sharedprocess] [info] Extracted extension to /home/lvzbel/.vscode/extensions/.dsznajder.es7-react-js-snippets-1.9.0: dsznajder.es7-react-js-snippets-1.9.0
+[2018-11-04 11:57:43.981] [sharedprocess] [info] Renamed to /home/lvzbel/.vscode/extensions/dsznajder.es7-react-js-snippets-1.9.0
+[2018-11-04 11:57:43.981] [sharedprocess] [info] Installation completed. dsznajder.es7-react-js-snippets-1.9.0
+[2018-11-04 11:57:43.989] [sharedprocess] [info] Extensions installed successfully: dsznajder.es7-react-js-snippets
+[2018-11-04 11:57:44.118] [sharedprocess] [info] Scanned user extensions: 17
+[2018-11-04 11:57:44.140] [sharedprocess] [info] Scanned system extensions: 71
+[2018-11-04 11:58:20.147] [sharedprocess] [info] Starting to clean up unused language packs.

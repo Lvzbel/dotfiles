@@ -1,0 +1,345 @@
+Looking for git in: git
+Using git 2.19.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/lvzbel/GitHub/react-course-projects
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :.gitignore
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :porfolio-site/package.json
+> git ls-files --stage -- porfolio-site/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :porfolio-site/src/components/Header.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git show :porfolio-site/src/app.js
+> git ls-files --stage -- porfolio-site/src/
+> git check-ignore -z --stdin
+> git show :porfolio-site/src/routers/AppRouter.js
+> git ls-files --stage -- porfolio-site/src/routers/
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :porfolio-site/src/components/Header.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :porfolio-site/src/routers/AppRouter.js
+> git ls-files --stage -- porfolio-site/src/routers/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :porfolio-site/src/components/Home.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :porfolio-site/src/routers/AppRouter.js
+> git ls-files --stage -- porfolio-site/src/routers/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :porfolio-site/src/components/Home.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git show :porfolio-site/src/routers/AppRouter.js
+> git ls-files --stage -- porfolio-site/src/routers/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :porfolio-site/src/components/Home.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git show :porfolio-site/src/routers/AppRouter.js
+> git ls-files --stage -- porfolio-site/src/routers/
+> git show :porfolio-site/src/components/Home.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :porfolio-site/src/components/Header.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git show :porfolio-site/src/components/Home.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git show :porfolio-site/src/components/Header.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git show :porfolio-site/src/components/Home.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git show :porfolio-site/src/routers/AppRouter.js
+> git ls-files --stage -- porfolio-site/src/routers/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :porfolio-site/src/components/Porfolio.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :porfolio-site/src/routers/AppRouter.js
+> git ls-files --stage -- porfolio-site/src/routers/
+> git show :porfolio-site/src/components/Porfolio.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :porfolio-site/src/routers/AppRouter.js
+> git ls-files --stage -- porfolio-site/src/routers/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :porfolio-site/src/components/Porfolio.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git show :porfolio-site/src/routers/AppRouter.js
+> git ls-files --stage -- porfolio-site/src/routers/
+> git show :porfolio-site/src/components/Contact.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :porfolio-site/src/routers/AppRouter.js
+> git ls-files --stage -- porfolio-site/src/routers/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :porfolio-site/src/components/Project.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :porfolio-site/src/routers/AppRouter.js
+> git ls-files --stage -- porfolio-site/src/routers/
+> git show :porfolio-site/src/components/Project.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :porfolio-site/src/routers/AppRouter.js
+> git ls-files --stage -- porfolio-site/src/routers/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :porfolio-site/src/components/Project.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git show :porfolio-site/src/routers/AppRouter.js
+> git ls-files --stage -- porfolio-site/src/routers/
+> git show :porfolio-site/src/components/Project.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git show :porfolio-site/src/routers/AppRouter.js
+> git ls-files --stage -- porfolio-site/src/routers/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :porfolio-site/src/components/Project.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git show :porfolio-site/src/routers/AppRouter.js
+> git ls-files --stage -- porfolio-site/src/routers/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :porfolio-site/src/components/Project.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :porfolio-site/src/routers/AppRouter.js
+> git ls-files --stage -- porfolio-site/src/routers/
+> git show :porfolio-site/src/components/Project.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git show :porfolio-site/src/routers/AppRouter.js
+> git ls-files --stage -- porfolio-site/src/routers/
+> git show :porfolio-site/src/components/Header.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git show :porfolio-site/src/components/Home.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git show :porfolio-site/src/components/Header.js
+> git ls-files --stage -- porfolio-site/src/components/
+> git show :porfolio-site/src/components/Header.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git

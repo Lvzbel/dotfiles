@@ -1,0 +1,163 @@
+[Info  - 8:52:13 PM] Using tsserver from: /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib
+[Info  - 8:52:13 PM] Forking TSServer
+[Info  - 8:52:13 PM] Started TSServer
+[Error  - 1:46:02 PM] 'signatureHelp' request failed with error.
+Error processing request. Debug Failure.
+Error: Debug Failure.
+    at Object.assertDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1446:24)
+    at containsPrecedingToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:101199:43)
+    at isSyntacticOwner (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:101176:28)
+    at getCandidateOrTypeInfo (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:101140:52)
+    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:101117:33)
+    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:114916:37)
+    at IOSession.Session.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122643:62)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121650:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123057:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123048:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123057:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123077:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124340:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 1:53:17 PM] 'getCodeFixes' request failed with error.
+Error processing request. Cannot read property 'parent' of undefined
+TypeError: Cannot read property 'parent' of undefined
+    at Object.deleteDeclaration (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:106172:56)
+    at _loop_8 (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:105806:47)
+    at ChangeTracker.finishDeleteDeclarations (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:105813:21)
+    at ChangeTracker.getChanges (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:105833:22)
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:105391:32)
+    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:109086:68)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:106348:121
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:499:25)
+    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:106348:23)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:115073:35
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:499:25)
+    at Object.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:115071:23)
+    at IOSession.Session.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122897:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121753:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123057:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123048:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123057:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123077:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124340:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 1:58:05 PM] 'getCodeFixes' request failed with error.
+Error processing request. Cannot read property 'parent' of undefined
+TypeError: Cannot read property 'parent' of undefined
+    at Object.deleteDeclaration (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:106172:56)
+    at _loop_8 (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:105806:47)
+    at ChangeTracker.finishDeleteDeclarations (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:105813:21)
+    at ChangeTracker.getChanges (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:105833:22)
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:105391:32)
+    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:109086:68)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:106348:121
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:499:25)
+    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:106348:23)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:115073:35
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:499:25)
+    at Object.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:115071:23)
+    at IOSession.Session.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122897:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121753:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123057:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123048:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123057:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123077:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124340:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 2:01:03 PM] 'getCodeFixes' request failed with error.
+Error processing request. Cannot read property 'parent' of undefined
+TypeError: Cannot read property 'parent' of undefined
+    at Object.deleteDeclaration (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:106172:56)
+    at _loop_8 (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:105806:47)
+    at ChangeTracker.finishDeleteDeclarations (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:105813:21)
+    at ChangeTracker.getChanges (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:105833:22)
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:105391:32)
+    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:109086:68)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:106348:121
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:499:25)
+    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:106348:23)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:115073:35
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:499:25)
+    at Object.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:115071:23)
+    at IOSession.Session.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122897:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121753:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123057:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123048:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123057:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123077:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124340:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 2:04:49 PM] 'getCodeFixes' request failed with error.
+Error processing request. Cannot read property 'parent' of undefined
+TypeError: Cannot read property 'parent' of undefined
+    at Object.deleteDeclaration (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:106172:56)
+    at _loop_8 (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:105806:47)
+    at ChangeTracker.finishDeleteDeclarations (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:105813:21)
+    at ChangeTracker.getChanges (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:105833:22)
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:105391:32)
+    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:109086:68)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:106348:121
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:499:25)
+    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:106348:23)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:115073:35
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:499:25)
+    at Object.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:115071:23)
+    at IOSession.Session.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:122897:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:121753:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123057:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123048:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123057:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:123077:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124340:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Info  - 2:49:59 PM] TSServer exited
