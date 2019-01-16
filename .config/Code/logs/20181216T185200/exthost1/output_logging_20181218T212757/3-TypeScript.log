@@ -1,0 +1,598 @@
+[Info  - 9:27:58 PM] Using tsserver from: /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib
+[Info  - 9:27:58 PM] Forking TSServer
+[Info  - 9:27:58 PM] Started TSServer
+[Error  - 9:58:12 PM] 'references' request failed with error.
+Error processing request. Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at Object.first (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1015:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98842:89
+    at definitionToReferencedSymbolDefinitionInfo (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98866:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:113
+    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:41
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:601:30)
+    at Object.findReferencedSymbols (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98782:85)
+    at Object.findReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117557:41)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124107:68
+    at callbackProjectAndLocation (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124160:13)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124134:24
+    at forEachProjectInProjects (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124117:17)
+    at combineProjectOutputWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124132:13)
+    at combineProjectOutputForReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124090:13)
+    at IOSession.Session.getReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125124:34)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124270:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 9:59:24 PM] 'references' request failed with error.
+Error processing request. Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at Object.first (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1015:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98842:89
+    at definitionToReferencedSymbolDefinitionInfo (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98866:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:113
+    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:41
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:601:30)
+    at Object.findReferencedSymbols (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98782:85)
+    at Object.findReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117557:41)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124107:68
+    at callbackProjectAndLocation (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124160:13)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124134:24
+    at forEachProjectInProjects (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124117:17)
+    at combineProjectOutputWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124132:13)
+    at combineProjectOutputForReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124090:13)
+    at IOSession.Session.getReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125124:34)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124270:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 9:59:24 PM] 'references' request failed with error.
+Error processing request. Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at Object.first (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1015:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98842:89
+    at definitionToReferencedSymbolDefinitionInfo (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98866:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:113
+    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:41
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:601:30)
+    at Object.findReferencedSymbols (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98782:85)
+    at Object.findReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117557:41)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124107:68
+    at callbackProjectAndLocation (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124160:13)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124134:24
+    at forEachProjectInProjects (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124117:17)
+    at combineProjectOutputWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124132:13)
+    at combineProjectOutputForReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124090:13)
+    at IOSession.Session.getReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125124:34)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124270:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 9:59:51 PM] 'references' request failed with error.
+Error processing request. Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at Object.first (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1015:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98842:89
+    at definitionToReferencedSymbolDefinitionInfo (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98866:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:113
+    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:41
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:601:30)
+    at Object.findReferencedSymbols (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98782:85)
+    at Object.findReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117557:41)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124107:68
+    at callbackProjectAndLocation (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124160:13)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124134:24
+    at forEachProjectInProjects (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124117:17)
+    at combineProjectOutputWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124132:13)
+    at combineProjectOutputForReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124090:13)
+    at IOSession.Session.getReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125124:34)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124270:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 8:59:56 PM] 'getCodeFixes' request failed with error.
+Error processing request. Cannot read property 'parent' of undefined
+TypeError: Cannot read property 'parent' of undefined
+    at Object.deleteDeclaration (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108462:56)
+    at _loop_8 (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108081:47)
+    at ChangeTracker.finishDeleteDeclarations (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108088:21)
+    at ChangeTracker.getChanges (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108108:22)
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107653:32)
+    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:112257:68)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108638:121
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:504:25)
+    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108638:23)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117737:35
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:504:25)
+    at Object.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117735:23)
+    at IOSession.Session.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125655:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124461:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 9:52:22 PM] 'getCodeFixes' request failed with error.
+Error processing request. Cannot read property 'parent' of undefined
+TypeError: Cannot read property 'parent' of undefined
+    at Object.deleteDeclaration (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108462:56)
+    at _loop_8 (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108081:47)
+    at ChangeTracker.finishDeleteDeclarations (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108088:21)
+    at ChangeTracker.getChanges (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108108:22)
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107653:32)
+    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:112257:68)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108638:121
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:504:25)
+    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108638:23)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117737:35
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:504:25)
+    at Object.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117735:23)
+    at IOSession.Session.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125655:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124461:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 9:52:25 PM] 'getCodeFixes' request failed with error.
+Error processing request. Cannot read property 'parent' of undefined
+TypeError: Cannot read property 'parent' of undefined
+    at Object.deleteDeclaration (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108462:56)
+    at _loop_8 (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108081:47)
+    at ChangeTracker.finishDeleteDeclarations (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108088:21)
+    at ChangeTracker.getChanges (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108108:22)
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107653:32)
+    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:112257:68)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108638:121
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:504:25)
+    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108638:23)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117737:35
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:504:25)
+    at Object.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117735:23)
+    at IOSession.Session.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125655:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124461:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 9:56:21 PM] 'references' request failed with error.
+Error processing request. Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at Object.first (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1015:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98842:89
+    at definitionToReferencedSymbolDefinitionInfo (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98866:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:113
+    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:41
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:601:30)
+    at Object.findReferencedSymbols (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98782:85)
+    at Object.findReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117557:41)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124107:68
+    at callbackProjectAndLocation (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124160:13)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124134:24
+    at forEachProjectInProjects (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124117:17)
+    at combineProjectOutputWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124132:13)
+    at combineProjectOutputForReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124090:13)
+    at IOSession.Session.getReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125124:34)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124270:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 9:56:27 PM] 'references' request failed with error.
+Error processing request. Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at Object.first (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1015:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98842:89
+    at definitionToReferencedSymbolDefinitionInfo (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98866:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:113
+    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:41
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:601:30)
+    at Object.findReferencedSymbols (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98782:85)
+    at Object.findReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117557:41)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124107:68
+    at callbackProjectAndLocation (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124160:13)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124134:24
+    at forEachProjectInProjects (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124117:17)
+    at combineProjectOutputWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124132:13)
+    at combineProjectOutputForReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124090:13)
+    at IOSession.Session.getReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125124:34)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124270:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 3:53:38 PM] 'getCodeFixes' request failed with error.
+Error processing request. Cannot read property 'parent' of undefined
+TypeError: Cannot read property 'parent' of undefined
+    at Object.deleteDeclaration (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108462:56)
+    at _loop_8 (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108081:47)
+    at ChangeTracker.finishDeleteDeclarations (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108088:21)
+    at ChangeTracker.getChanges (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108108:22)
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107653:32)
+    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:112257:68)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108638:121
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:504:25)
+    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108638:23)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117737:35
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:504:25)
+    at Object.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117735:23)
+    at IOSession.Session.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125655:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124461:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 4:07:42 PM] 'references' request failed with error.
+Error processing request. Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at Object.first (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1015:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98842:89
+    at definitionToReferencedSymbolDefinitionInfo (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98866:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:113
+    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:41
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:601:30)
+    at Object.findReferencedSymbols (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98782:85)
+    at Object.findReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117557:41)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124107:68
+    at callbackProjectAndLocation (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124160:13)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124134:24
+    at forEachProjectInProjects (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124117:17)
+    at combineProjectOutputWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124132:13)
+    at combineProjectOutputForReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124090:13)
+    at IOSession.Session.getReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125124:34)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124270:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 4:10:23 PM] 'references' request failed with error.
+Error processing request. Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at Object.first (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1015:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98842:89
+    at definitionToReferencedSymbolDefinitionInfo (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98866:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:113
+    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:41
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:601:30)
+    at Object.findReferencedSymbols (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98782:85)
+    at Object.findReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117557:41)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124107:68
+    at callbackProjectAndLocation (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124160:13)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124134:24
+    at forEachProjectInProjects (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124117:17)
+    at combineProjectOutputWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124132:13)
+    at combineProjectOutputForReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124090:13)
+    at IOSession.Session.getReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125124:34)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124270:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 4:19:00 PM] 'references' request failed with error.
+Error processing request. Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at Object.first (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1015:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98842:89
+    at definitionToReferencedSymbolDefinitionInfo (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98866:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:113
+    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:41
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:601:30)
+    at Object.findReferencedSymbols (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98782:85)
+    at Object.findReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117557:41)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124107:68
+    at callbackProjectAndLocation (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124160:13)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124134:24
+    at forEachProjectInProjects (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124117:17)
+    at combineProjectOutputWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124132:13)
+    at combineProjectOutputForReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124090:13)
+    at IOSession.Session.getReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125124:34)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124270:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 4:19:11 PM] 'references' request failed with error.
+Error processing request. Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at Object.first (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1015:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98842:89
+    at definitionToReferencedSymbolDefinitionInfo (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98866:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:113
+    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:41
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:601:30)
+    at Object.findReferencedSymbols (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98782:85)
+    at Object.findReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117557:41)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124107:68
+    at callbackProjectAndLocation (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124160:13)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124134:24
+    at forEachProjectInProjects (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124117:17)
+    at combineProjectOutputWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124132:13)
+    at combineProjectOutputForReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124090:13)
+    at IOSession.Session.getReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125124:34)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124270:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 4:40:49 PM] 'getCodeFixes' request failed with error.
+Error processing request. Cannot read property 'parent' of undefined
+TypeError: Cannot read property 'parent' of undefined
+    at Object.deleteDeclaration (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108462:56)
+    at _loop_8 (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108081:47)
+    at ChangeTracker.finishDeleteDeclarations (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108088:21)
+    at ChangeTracker.getChanges (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108108:22)
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107653:32)
+    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:112257:68)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108638:121
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:504:25)
+    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108638:23)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117737:35
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:504:25)
+    at Object.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117735:23)
+    at IOSession.Session.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125655:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124461:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 4:43:36 PM] 'references' request failed with error.
+Error processing request. Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at Object.first (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1015:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98842:89
+    at definitionToReferencedSymbolDefinitionInfo (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98866:15)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:113
+    at Object.runWithCancellationToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:31045:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98786:41
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:601:30)
+    at Object.findReferencedSymbols (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:98782:85)
+    at Object.findReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117557:41)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124107:68
+    at callbackProjectAndLocation (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124160:13)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124134:24
+    at forEachProjectInProjects (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124117:17)
+    at combineProjectOutputWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124132:13)
+    at combineProjectOutputForReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124090:13)
+    at IOSession.Session.getReferences (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125124:34)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124270:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Error  - 5:47:50 PM] 'getCodeFixes' request failed with error.
+Error processing request. Cannot read property 'parent' of undefined
+TypeError: Cannot read property 'parent' of undefined
+    at Object.deleteDeclaration (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108462:56)
+    at _loop_8 (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108081:47)
+    at ChangeTracker.finishDeleteDeclarations (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108088:21)
+    at ChangeTracker.getChanges (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108108:22)
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:107653:32)
+    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:112257:68)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108638:121
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:504:25)
+    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:108638:23)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117737:35
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:504:25)
+    at Object.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117735:23)
+    at IOSession.Session.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125655:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124461:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Info  - 8:25:43 PM] TSServer exited

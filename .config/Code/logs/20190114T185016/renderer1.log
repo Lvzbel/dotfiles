@@ -1,0 +1,3 @@
+[2019-01-14 18:50:19.636] [renderer1] [info] no standard startup: not the explorer viewlet
+[2019-01-14 18:50:19.658] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: {1}
+[2019-01-14 19:27:14.250] [renderer1] [info] no standard startup: not a new window

@@ -1,0 +1,31 @@
+[Info  - 9:55:07 PM] Using tsserver from: /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib
+[Info  - 9:55:07 PM] Forking TSServer
+[Info  - 9:55:07 PM] Started TSServer
+[Error  - 9:13:13 PM] 'signatureHelp' request failed with error.
+Error processing request. Debug Failure.
+Error: Debug Failure.
+    at Object.assertDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1482:24)
+    at containsPrecedingToken (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103448:43)
+    at isSyntacticOwner (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103425:28)
+    at getCandidateOrTypeInfo (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103389:52)
+    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:103366:33)
+    at Object.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117580:37)
+    at IOSession.Session.getSignatureHelpItems (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125403:62)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124358:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[Info  - 9:22:09 PM] TSServer exited

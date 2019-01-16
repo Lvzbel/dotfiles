@@ -1,0 +1,77 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/lvzbel/GitHub/mosh-react
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :router-app/src/App.js
+> git ls-files --stage -- router-app/src/
+> git show :router-app/src/index.js
+> git ls-files --stage -- router-app/src/
+> git show :router-app/src/App.js
+> git ls-files --stage -- router-app/src/
+> git show :router-app/src/App.js
+> git ls-files --stage -- router-app/src/
+> git show :router-app/src/App.js
+> git ls-files --stage -- router-app/src/
+> git check-ignore -z --stdin
+> git show :router-app/src/components/navbar.jsx
+> git ls-files --stage -- router-app/src/components/
+> git show :router-app/src/index.js
+> git ls-files --stage -- router-app/src/
+> git show :router-app/src/App.js
+> git ls-files --stage -- router-app/src/
+> git show :router-app/src/components/navbar.jsx
+> git ls-files --stage -- router-app/src/components/
+> git show :router-app/src/index.js
+> git ls-files --stage -- router-app/src/
+> git show :router-app/src/App.js
+> git ls-files --stage -- router-app/src/
+> git show :router-app/src/components/productDetails.jsx
+> git ls-files --stage -- router-app/src/components/
+> git show :router-app/src/components/products.jsx
+> git ls-files --stage -- router-app/src/components/
+> git show :router-app/src/App.js
+> git ls-files --stage -- router-app/src/
+> git show :router-app/src/components/posts.jsx
+> git ls-files --stage -- router-app/src/components/
+> git show :router-app/src/App.js
+> git ls-files --stage -- router-app/src/
+> git show :router-app/src/components/productDetails.jsx
+> git ls-files --stage -- router-app/src/components/
+> git check-ignore -z --stdin
+> git show :router-app/src/components/admin/dashboard.jsx
+> git ls-files --stage -- router-app/src/components/admin/
+> git show :router-app/src/components/admin/sidebar.jsx
+> git ls-files --stage -- router-app/src/components/admin/
+> git check-ignore -z --stdin
+> git show :router-app/src/components/admin/dashboard.jsx
+> git ls-files --stage -- router-app/src/components/admin/
+> git show :router-app/src/components/navbar.jsx
+> git ls-files --stage -- router-app/src/components/
+> git show :router-app/src/components/admin/dashboard.jsx
+> git ls-files --stage -- router-app/src/components/admin/

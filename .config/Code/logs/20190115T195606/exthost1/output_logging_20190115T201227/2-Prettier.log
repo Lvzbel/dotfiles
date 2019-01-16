@@ -1,0 +1,44 @@
+1/15/2019, 8:15:10 PM:
+----------------------
+Unexpected token (/home/lvzbel/GitHub/mosh-react/vidly/src/components/404.jsx:3:7)
+  1 | import React from 'react'
+  2 | 
+> 3 | const 404 = () => {
+    |       ^
+  4 |   return ( <h1>404 - Page Not Found.</h1> );
+  5 | }
+  6 |  
+
+1/15/2019, 8:23:40 PM:
+----------------------
+Unexpected token (/home/lvzbel/GitHub/mosh-react/vidly/src/components/navBar.jsx:5:4)
+  3 | const NavBar = () => {
+  4 |   return ( <nav class="navbar navbar-dark bg-dark">
+> 5 |   <!-- Navbar content -->
+    |    ^
+  6 | </nav> );
+  7 | }
+  8 |  
+
+1/15/2019, 8:34:33 PM:
+----------------------
+Unexpected token (/home/lvzbel/GitHub/mosh-react/vidly/src/components/navBar.jsx:4:1)
+  2 | import { Route, Switch, NavLink}
+  3 | 
+> 4 | const NavBar = () => {
+    | ^
+  5 |   return (
+  6 |     <nav className="navbar navbar-dark bg-dark">
+  7 |       <ul className="navbar-nav">
+
+1/15/2019, 9:46:55 PM:
+----------------------
+Expected corresponding JSX closing tag for <NavLink> (/home/lvzbel/GitHub/mosh-react/vidly/src/components/navBar.jsx:9:7)
+   7 |       <NavLink className="navbar-brand" to="#">
+   8 |         Navbar
+>  9 |       </a>
+     |       ^
+  10 |       <button
+  11 |         className="navbar-toggler"
+  12 |         type="button"
+

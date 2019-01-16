@@ -1,0 +1,86 @@
+[2019-01-14 01:06:38.490] [exthost] [info] extension host started
+[2019-01-14 01:06:38.548] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:06:38.548] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-01-14 01:06:38.557] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:06:38.557] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2019-01-14 01:06:38.591] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:06:38.591] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2019-01-14 01:06:38.724] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:06:38.724] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2019-01-14 01:06:38.731] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:06:38.731] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-01-14 01:06:38.754] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:06:38.754] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-01-14 01:06:38.802] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:06:38.802] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/equinusocio.vsc-material-theme-2.6.3/extensions/material.theme.config.js
+[2019-01-14 01:06:38.832] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:06:38.832] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/esbenp.prettier-vscode-1.7.3/out/src/extension
+[2019-01-14 01:06:39.088] [exthost] [info] ExtensionService#_doActivateExtension lihui.vs-color-picker {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:06:39.088] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/lihui.vs-color-picker-1.0.0/out/src/extension
+[2019-01-14 01:06:39.089] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:06:39.090] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2019-01-14 01:06:39.134] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:06:39.134] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/pkief.material-icon-theme-3.6.2/out/src/extension
+[2019-01-14 01:06:39.185] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:06:39.185] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/ritwickdey.liveserver-5.3.1/out/src/extension
+[2019-01-14 01:06:39.785] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-01-14 01:06:39.785] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-01-14 01:06:39.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:scss"}
+[2019-01-14 01:06:39.855] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2019-01-14 01:06:39.901] [exthost] [info] eager extensions activated
+[2019-01-14 01:07:02.757] [exthost] [info] extension host started
+[2019-01-14 01:07:02.784] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:07:02.784] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-01-14 01:07:02.789] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:07:02.789] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2019-01-14 01:07:02.825] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:07:02.825] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2019-01-14 01:07:02.954] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:07:02.954] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2019-01-14 01:07:02.963] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:07:02.963] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-01-14 01:07:02.977] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:07:02.977] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-01-14 01:07:03.002] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:07:03.002] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/equinusocio.vsc-material-theme-2.6.3/extensions/material.theme.config.js
+[2019-01-14 01:07:03.014] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:07:03.014] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/esbenp.prettier-vscode-1.7.3/out/src/extension
+[2019-01-14 01:07:03.196] [exthost] [info] ExtensionService#_doActivateExtension lihui.vs-color-picker {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:07:03.196] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/lihui.vs-color-picker-1.0.0/out/src/extension
+[2019-01-14 01:07:03.197] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:07:03.197] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2019-01-14 01:07:03.230] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:07:03.230] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/pkief.material-icon-theme-3.6.2/out/src/extension
+[2019-01-14 01:07:03.261] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-01-14 01:07:03.261] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/ritwickdey.liveserver-5.3.1/out/src/extension
+[2019-01-14 01:07:03.595] [exthost] [info] eager extensions activated
+[2019-01-14 14:16:49.217] [exthost] [info] extension host started
+[2019-01-14 14:16:49.262] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-01-14 14:16:49.262] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-01-14 14:16:49.268] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-01-14 14:16:49.268] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2019-01-14 14:16:49.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-01-14 14:16:49.307] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2019-01-14 14:16:49.472] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-01-14 14:16:49.472] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2019-01-14 14:16:49.480] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-01-14 14:16:49.480] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-01-14 14:16:49.496] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-01-14 14:16:49.496] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-01-14 14:16:49.529] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-01-14 14:16:49.529] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/equinusocio.vsc-material-theme-2.6.3/extensions/material.theme.config.js
+[2019-01-14 14:16:49.543] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-01-14 14:16:49.543] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/esbenp.prettier-vscode-1.7.3/out/src/extension
+[2019-01-14 14:16:49.765] [exthost] [info] ExtensionService#_doActivateExtension lihui.vs-color-picker {"startup":true,"activationEvent":"*"}
+[2019-01-14 14:16:49.765] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/lihui.vs-color-picker-1.0.0/out/src/extension
+[2019-01-14 14:16:49.766] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2019-01-14 14:16:49.766] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2019-01-14 14:16:49.805] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-01-14 14:16:49.805] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/pkief.material-icon-theme-3.6.2/out/src/extension
+[2019-01-14 14:16:49.841] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-01-14 14:16:49.841] [exthost] [info] ExtensionService#loadCommonJSModule /home/lvzbel/.vscode/extensions/ritwickdey.liveserver-5.3.1/out/src/extension
+[2019-01-14 14:16:50.226] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-01-14 14:16:50.226] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-01-14 14:16:50.280] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:scss"}
+[2019-01-14 14:16:50.280] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2019-01-14 14:16:50.311] [exthost] [info] eager extensions activated

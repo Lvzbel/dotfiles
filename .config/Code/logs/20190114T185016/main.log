@@ -1,0 +1,6 @@
+[2019-01-14 18:50:16.519] [main] [info] update#setState idle
+[2019-01-14 18:50:46.535] [main] [info] update#setState checking for updates
+[2019-01-14 18:50:46.545] [main] [error] Error: net::ERR_INTERNET_DISCONNECTED
+[2019-01-14 18:50:46.545] [main] [info] update#setState idle
+[2019-01-14 19:50:46.564] [main] [info] update#setState checking for updates
+[2019-01-14 19:50:47.138] [main] [info] update#setState available for download

@@ -1,0 +1,40 @@
+1/7/2019, 7:16:36 PM:
+---------------------
+Unexpected closing tag "section". It may happen when the tag has already been closed by another tag. For more info see https/home/lvzbel/GitHub/Advance-CSS-Sass-Course/Natours/dist/index.html:://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (/home/lvzbel/GitHub/Advance-CSS-Sass-Course/Natours/dist/index.html:122:5)
+  120 |           Exciting tours for adventurous people
+  121 |         </h2>
+> 122 |     </section>
+      |     ^
+  123 |   </main>
+  124 | 
+  125 |   <!-- <section class="grid-test">
+
+1/7/2019, 11:25:55 PM:
+----------------------
+(postcss) CssSyntaxError Unexpected } (/home/lvzbel/GitHub/Advance-CSS-Sass-Course/Natours/sass/components/_card.scss:144:1)
+  142 |     font-weight: 100;
+  143 |   }
+> 144 | }
+      | ^
+  145 | 
+
+1/7/2019, 11:50:43 PM:
+----------------------
+(postcss) CssSyntaxError Unclosed block (/home/lvzbel/GitHub/Advance-CSS-Sass-Course/Natours/sass/components/_button.scss:1:1)
+> 1 | .btn {
+    | ^
+  2 |   &:link,
+  3 |   &:visited {
+  4 |     text-transform: uppercase;
+
+1/7/2019, 11:53:29 PM:
+----------------------
+(postcss) CssSyntaxError Unexpected } (/home/lvzbel/GitHub/Advance-CSS-Sass-Course/Natours/sass/components/_button.scss:72:1)
+  70 |     animation-fill-mode: backwards;
+  71 |   }
+> 72 | }
+     | ^
+  73 | 
+  74 | .btn-text {
+  75 |   &:link,
+

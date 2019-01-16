@@ -1,0 +1,96 @@
+[2019-01-14 18:50:20.371] [sharedprocess] [info] main {"machineId":"688693ba4ea11fb6dec10aea7b1a39bd11a08b2f7c99da68bb8d3df559db3ab2"}
+[2019-01-14 18:50:20.533] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 18:50:20.557] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 18:50:20.567] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 18:50:20.595] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 18:50:20.596] [sharedprocess] [info] Deleted from disk liviuschera.noctis-4.19.1
+[2019-01-14 18:50:20.601] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 18:51:00.378] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-01-14 18:55:20.741] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 19:00:20.773] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 19:05:20.806] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 19:10:20.835] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 19:15:20.861] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 19:20:20.889] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 19:25:20.916] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 19:25:55.482] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 19:25:55.488] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 19:25:55.489] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 19:25:55.492] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 19:25:55.550] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 19:25:55.557] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 19:25:55.562] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 19:26:09.025] [sharedprocess] [info] Installing extension: night-owl
+[2019-01-14 19:26:09.044] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 19:26:09.542] [sharedprocess] [info] Downloaded extension: night-owl /tmp/dfbd7ce2-1975-4758-bf74-9c03da591cc7
+[2019-01-14 19:26:09.618] [sharedprocess] [info] Extracted extension to /home/lvzbel/.vscode/extensions/.sdras.night-owl-0.4.2: sdras.night-owl-0.4.2
+[2019-01-14 19:26:09.618] [sharedprocess] [info] Renamed to /home/lvzbel/.vscode/extensions/sdras.night-owl-0.4.2
+[2019-01-14 19:26:09.618] [sharedprocess] [info] Installation completed. sdras.night-owl-0.4.2
+[2019-01-14 19:26:09.625] [sharedprocess] [info] Extensions installed successfully: sdras.night-owl
+[2019-01-14 19:26:09.759] [sharedprocess] [info] Scanned user extensions: 26
+[2019-01-14 19:26:09.771] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 19:26:34.942] [sharedprocess] [info] Scanned user extensions: 26
+[2019-01-14 19:26:34.945] [sharedprocess] [info] Scanned user extensions: 26
+[2019-01-14 19:26:34.950] [sharedprocess] [info] Scanned user extensions: 26
+[2019-01-14 19:26:34.982] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 19:26:34.988] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 19:26:34.993] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 19:26:41.635] [sharedprocess] [info] Installing extension: rainglow
+[2019-01-14 19:26:41.650] [sharedprocess] [info] Scanned user extensions: 26
+[2019-01-14 19:26:42.141] [sharedprocess] [info] Downloaded extension: rainglow /tmp/e392cc46-c7ce-4be3-ab05-d9de77507312
+[2019-01-14 19:26:42.505] [sharedprocess] [info] Extracted extension to /home/lvzbel/.vscode/extensions/.daylerees.rainglow-1.5.2: daylerees.rainglow-1.5.2
+[2019-01-14 19:26:42.505] [sharedprocess] [info] Renamed to /home/lvzbel/.vscode/extensions/daylerees.rainglow-1.5.2
+[2019-01-14 19:26:42.506] [sharedprocess] [info] Installation completed. daylerees.rainglow-1.5.2
+[2019-01-14 19:26:42.513] [sharedprocess] [info] Extensions installed successfully: daylerees.rainglow
+[2019-01-14 19:26:42.653] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 19:26:42.674] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 19:27:12.900] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 19:27:12.907] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 19:27:12.912] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 19:27:12.918] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 19:27:12.922] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 19:27:12.972] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 19:27:12.976] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 19:27:12.982] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 19:27:12.986] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 19:27:14.377] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 19:32:14.409] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 19:34:23.634] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 19:37:14.433] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 19:42:14.463] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 19:47:14.491] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 19:52:14.524] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 19:57:14.706] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 20:02:14.732] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 20:07:14.763] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 20:12:14.793] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 20:17:14.819] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 20:22:14.849] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 20:27:14.876] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 20:32:14.903] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 20:37:14.931] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 20:42:14.960] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 20:47:14.990] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 20:52:15.017] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 20:57:15.196] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 21:02:15.224] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 21:07:15.249] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 21:12:15.280] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 21:17:15.309] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 21:22:15.351] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 21:27:15.398] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 21:32:15.436] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 21:37:15.460] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 21:42:15.488] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 21:47:15.515] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 21:52:15.548] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 21:57:15.707] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 22:02:15.759] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 22:07:15.813] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 22:12:15.848] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 22:17:15.881] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 22:22:15.910] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 22:27:15.930] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 22:32:15.955] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 22:37:15.977] [sharedprocess] [info] Scanned user extensions: 27
+[2019-01-14 22:42:15.998] [sharedprocess] [info] Scanned user extensions: 27

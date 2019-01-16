@@ -1,0 +1,56 @@
+[2019-01-14 01:06:39.797] [sharedprocess] [info] main {"machineId":"688693ba4ea11fb6dec10aea7b1a39bd11a08b2f7c99da68bb8d3df559db3ab2"}
+[2019-01-14 01:06:39.949] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 01:06:39.964] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 01:06:40.013] [sharedprocess] [info] Deleted from disk liviuschera.noctis-4.19.0
+[2019-01-14 01:06:40.013] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 01:06:40.018] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 01:06:40.119] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 01:06:41.624] [sharedprocess] [info] Installing extension: noctis
+[2019-01-14 01:06:41.644] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 01:06:42.369] [sharedprocess] [info] Downloaded extension: noctis /tmp/4927f48f-bc67-400b-8f91-10123aa3ceed
+[2019-01-14 01:06:42.405] [sharedprocess] [info] Extracted extension to /home/lvzbel/.vscode/extensions/.liviuschera.noctis-4.20.0: liviuschera.noctis-4.20.0
+[2019-01-14 01:06:42.405] [sharedprocess] [info] Renamed to /home/lvzbel/.vscode/extensions/liviuschera.noctis-4.20.0
+[2019-01-14 01:06:42.406] [sharedprocess] [info] Installation completed. liviuschera.noctis-4.20.0
+[2019-01-14 01:06:42.410] [sharedprocess] [info] Extensions installed successfully: liviuschera.noctis
+[2019-01-14 01:07:02.231] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 01:07:02.245] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 01:07:02.311] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 01:07:02.321] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 01:07:02.836] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 01:07:19.804] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-01-14 01:12:02.876] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 01:17:02.916] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 01:22:02.954] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 01:27:02.995] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 01:32:03.030] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 01:37:03.060] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 01:42:03.091] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 01:47:03.126] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 13:29:21.816] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 13:34:21.856] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 13:39:21.898] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 13:44:21.932] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 13:49:21.968] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 13:54:21.998] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 13:59:22.037] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 14:04:22.070] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 14:09:22.115] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 14:14:22.144] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 14:16:48.744] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 14:16:48.783] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-14 14:16:49.680] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 14:21:49.721] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 14:26:49.760] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 14:31:49.949] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 14:36:49.985] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 14:41:50.020] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 14:46:50.054] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 14:51:50.089] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 14:56:50.126] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 15:01:50.167] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 15:06:50.203] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 15:11:50.242] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 15:16:50.278] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 15:21:50.310] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 15:26:50.346] [sharedprocess] [info] Scanned user extensions: 25
+[2019-01-14 15:49:58.293] [sharedprocess] [info] Scanned user extensions: 25

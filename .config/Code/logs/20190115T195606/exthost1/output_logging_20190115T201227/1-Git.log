@@ -1,0 +1,116 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/lvzbel/GitHub/mosh-react
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :vidly/src/components/customers.jsx
+> git ls-files --stage -- vidly/src/components/
+> git check-ignore -z --stdin
+> git show :vidly/src/components/rentals.jsx
+> git ls-files --stage -- vidly/src/components/
+> git check-ignore -z --stdin
+> git show :vidly/src/App.js
+> git ls-files --stage -- vidly/src/
+> git show :vidly/src/index.js
+> git ls-files --stage -- vidly/src/
+> git show :vidly/src/components/404.jsx
+> git ls-files --stage -- vidly/src/components/
+> git check-ignore -z --stdin
+> git show :vidly/src/components/notFound.jsx
+> git ls-files --stage -- vidly/src/components/
+> git check-ignore -z --stdin
+> git show :vidly/src/index.js
+> git ls-files --stage -- vidly/src/
+> git show :vidly/src/App.js
+> git ls-files --stage -- vidly/src/
+> git show :vidly/src/components/movies.jsx
+> git ls-files --stage -- vidly/src/components/
+> git show :vidly/src/App.js
+> git ls-files --stage -- vidly/src/
+> git show :vidly/src/components/movies.jsx
+> git ls-files --stage -- vidly/src/components/
+> git show :vidly/src/App.js
+> git ls-files --stage -- vidly/src/
+> git show :vidly/src/components/navBar.jsx
+> git ls-files --stage -- vidly/src/components/
+> git check-ignore -z --stdin
+> git show :vidly/src/components/movieForm.jsx
+> git ls-files --stage -- vidly/src/components/
+> git check-ignore -z --stdin
+> git show :vidly/src/App.js
+> git ls-files --stage -- vidly/src/
+> git show :vidly/src/components/movieForm.jsx
+> git ls-files --stage -- vidly/src/components/
+> git show :vidly/src/App.js
+> git ls-files --stage -- vidly/src/
+> git check-ignore -z --stdin
+> git show :vidly/src/components/common/tableBody.jsx
+> git ls-files --stage -- vidly/src/components/common/
+> git show :vidly/src/App.js
+> git ls-files --stage -- vidly/src/
+> git show :vidly/src/components/moviesTable.jsx
+> git ls-files --stage -- vidly/src/components/
+> git show :vidly/src/components/common/tableBody.jsx
+> git ls-files --stage -- vidly/src/components/common/
+> git show :vidly/src/components/moviesTable.jsx
+> git ls-files --stage -- vidly/src/components/
+> git show :vidly/src/components/common/listGroup.jsx
+> git ls-files --stage -- vidly/src/components/common/
+> git show :vidly/src/components/moviesTable.jsx
+> git ls-files --stage -- vidly/src/components/
+> git show :vidly/src/components/common/tableBody.jsx
+> git ls-files --stage -- vidly/src/components/common/
+> git check-ignore -z --stdin
+> git show :vidly/src/services/fakeMovieService.js
+> git ls-files --stage -- vidly/src/services/
+> git show :vidly/src/components/common/tableBody.jsx
+> git ls-files --stage -- vidly/src/components/common/
+> git show :vidly/src/App.js
+> git ls-files --stage -- vidly/src/
+> git show :vidly/src/components/movieForm.jsx
+> git ls-files --stage -- vidly/src/components/
+> git show :vidly/src/components/navBar.jsx
+> git ls-files --stage -- vidly/src/components/
+> git show :vidly/src/App.js
+> git ls-files --stage -- vidly/src/
+> git show :vidly/src/index.css
+> git ls-files --stage -- vidly/src/
+> git show :vidly/src/components/navBar.jsx
+> git ls-files --stage -- vidly/src/components/
+> git show :vidly/src/index.css
+> git ls-files --stage -- vidly/src/
+> git show :vidly/src/components/navBar.jsx
+> git ls-files --stage -- vidly/src/components/
+> git show :vidly/src/components/movieForm.jsx
+> git ls-files --stage -- vidly/src/components/
+> git show :vidly/src/components/common/tableBody.jsx
+> git ls-files --stage -- vidly/src/components/common/
+> git show :vidly/src/components/movieForm.jsx
+> git ls-files --stage -- vidly/src/components/
+> git show :vidly/src/components/moviesTable.jsx
+> git ls-files --stage -- vidly/src/components/
+> git show :vidly/src/components/movieForm.jsx
+> git ls-files --stage -- vidly/src/components/
+> git show :vidly/src/components/moviesTable.jsx
+> git ls-files --stage -- vidly/src/components/
+> git show :vidly/src/components/common/tableBody.jsx
+> git ls-files --stage -- vidly/src/components/common/
+> git show :vidly/src/components/moviesTable.jsx
+> git ls-files --stage -- vidly/src/components/
+> git show :vidly/src/App.js
+> git ls-files --stage -- vidly/src/
+> git show :vidly/src/components/common/tableBody.jsx
+> git ls-files --stage -- vidly/src/components/common/
+> git show :vidly/src/components/moviesTable.jsx
+> git ls-files --stage -- vidly/src/components/
+> git show :vidly/src/components/movieForm.jsx
+> git ls-files --stage -- vidly/src/components/

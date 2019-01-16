@@ -1,0 +1,55 @@
+12/28/2018, 7:11:04 PM:
+-----------------------
+JSX attributes must only be assigned a non-empty expression (/home/lvzbel/GitHub/react-course-projects/expensify-app/src/components/AddExpensePage.js:17:27)
+  15 |   <div>
+  16 |     <h1>Add Expense</h1>
+> 17 |     <ExpenseForm onSubmit={}/>
+     |                           ^
+  18 |   </div>
+  19 | );
+  20 | 
+
+12/28/2018, 7:12:08 PM:
+-----------------------
+JSX attributes must only be assigned a non-empty expression (/home/lvzbel/GitHub/react-course-projects/expensify-app/src/components/AddExpensePage.js:16:27)
+  14 |       <div>
+  15 |     <h1>Add Expense</h1>
+> 16 |     <ExpenseForm onSubmit={}/>
+     |                           ^
+  17 |   </div>
+  18 |     )
+  19 |   }
+
+12/28/2018, 7:12:11 PM:
+-----------------------
+JSX attributes must only be assigned a non-empty expression (/home/lvzbel/GitHub/react-course-projects/expensify-app/src/components/AddExpensePage.js:16:27)
+  14 |       <div>
+  15 |     <h1>Add Expense</h1>
+> 16 |     <ExpenseForm onSubmit={}/>
+     |                           ^
+  17 |   </div>
+  18 |     )
+  19 |   }
+
+12/28/2018, 7:12:28 PM:
+-----------------------
+JSX attributes must only be assigned a non-empty expression (/home/lvzbel/GitHub/react-course-projects/expensify-app/src/components/AddExpensePage.js:16:27)
+  14 |       <div>
+  15 |     <h1>Add Expense</h1>
+> 16 |     <ExpenseForm onSubmit={}/>
+     |                           ^
+  17 |   </div>
+  18 |     )
+  19 |   }
+
+12/28/2018, 7:33:30 PM:
+-----------------------
+Unexpected token (/home/lvzbel/GitHub/react-course-projects/expensify-app/src/tests/components/AddExpensePage.test.js:12:1)
+  10 | history = { push: jest.fn() };
+  11 | wrapper = shallow(
+> 12 | })
+     | ^
+  13 | 
+  14 | test("should render AddExpensePage correctly", () => {
+  15 | 
+

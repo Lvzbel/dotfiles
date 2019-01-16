@@ -1,0 +1,33 @@
+1/15/2019, 11:27:37 PM:
+-----------------------
+(postcss) CssSyntaxError Missed semicolon (/home/lvzbel/GitHub/porfolio-website/src/styles/layout/_navigation.scss:52:23)
+  50 |     &:hover,
+  51 |     &:active {
+> 52 |       transform: scale(1.1)
+     |                       ^
+  53 |       animation: neonFlashGlow 2s infinite;
+  54 |     }
+  55 |   }
+
+1/15/2019, 11:29:10 PM:
+-----------------------
+(postcss) CssSyntaxError Missed semicolon (/home/lvzbel/GitHub/porfolio-website/src/styles/layout/_navigation.scss:41:18)
+  39 |     &:visited {
+  40 |       display: inline-block;
+> 41 |       font-size: 2.5rem
+     |                  ^
+  42 |       padding: 1rem 1.5rem;
+  43 |       text-decoration: none;
+  44 |       text-transform: uppercase;
+
+1/16/2019, 12:48:11 AM:
+-----------------------
+(postcss) CssSyntaxError Missed semicolon (/home/lvzbel/GitHub/porfolio-website/src/styles/layout/_qualifications.scss:22:23)
+  20 |       height: 27rem;
+  21 |       margin: 0;
+> 22 |       transition: all .2s
+     |                       ^
+  23 | 
+  24 |       &:hover {
+  25 |         transform: scale(1.1);
+

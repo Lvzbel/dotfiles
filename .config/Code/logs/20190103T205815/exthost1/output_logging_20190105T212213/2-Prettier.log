@@ -1,0 +1,11 @@
+1/5/2019, 9:42:29 PM:
+---------------------
+Unexpected token (/home/lvzbel/GitHub/mosh-react/vidly/src/App.js:7:3)
+   5 |   state = {
+   6 |     movies: 
+>  7 |   }
+     |   ^
+   8 |   render() {
+   9 |     return (
+  10 |       <main className="container">
+

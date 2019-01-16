@@ -1,0 +1,42 @@
+1/13/2019, 5:10:55 PM:
+----------------------
+(postcss) CssSyntaxError Missed semicolon (/home/lvzbel/GitHub/Advance-CSS-Sass-Course/Natours/sass/components/_form.scss:18:21)
+  16 |     width: 90%;
+  17 |     display: block;
+> 18 |     transition: all .3s
+     |                     ^
+  19 | 
+  20 |     &:focus {
+  21 |       outline: none;
+
+1/13/2019, 10:19:52 PM:
+-----------------------
+(postcss) CssSyntaxError Missed semicolon (/home/lvzbel/GitHub/Advance-CSS-Sass-Course/Natours/sass/layout/_navigation.scss:58:19)
+  56 |     font-size: 3rem;
+  57 |     font-weight: 300;
+> 58 |     padding: 1rem 2rem
+     |                   ^
+  59 |     color: $color-white;
+  60 |     text-transform: uppercase;
+  61 |     text-decoration: none;
+
+1/13/2019, 10:25:47 PM:
+-----------------------
+(postcss) CssSyntaxError Missed semicolon (/home/lvzbel/GitHub/Advance-CSS-Sass-Course/Natours/sass/layout/_navigation.scss:57:6)
+  55 |   &__link {
+  56 |     :link,
+> 57 |     :visited
+     |      ^
+  58 |     font-size: 3rem;
+  59 |     font-weight: 300;
+  60 |     padding: 1rem 2rem;
+
+1/13/2019, 10:38:24 PM:
+-----------------------
+(postcss) CssSyntaxError Unclosed block (/home/lvzbel/GitHub/Advance-CSS-Sass-Course/Natours/sass/layout/_navigation.scss:1:1)
+> 1 | .navigation {
+    | ^
+  2 |   &__checkbox {
+  3 |     display: none;
+  4 |   }
+

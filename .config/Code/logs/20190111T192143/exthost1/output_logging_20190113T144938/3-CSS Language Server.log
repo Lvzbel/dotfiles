@@ -1,0 +1,24 @@
+[Error - 5:22:00 PM] Error while computing completions for file:///home/lvzbel/GitHub/Advance-CSS-Sass-Course/Natours/sass/components/_form.scss: e.getProperty is not a function
+TypeError: e.getProperty is not a function
+    at t.e.getPropertyProposals (/opt/visual-studio-code/resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:533026)
+    at t.e.getCompletionsForDeclarationProperty (/opt/visual-studio-code/resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:532796)
+    at t.getCompletionsForDeclarationProperty (/opt/visual-studio-code/resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:591744)
+    at t.e.getCompletionsForDeclarations (/opt/visual-studio-code/resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:544093)
+    at t.e.doComplete (/opt/visual-studio-code/resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:531045)
+    at l.runSafe (/opt/visual-studio-code/resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:70727)
+    at Immediate.setImmediate (/opt/visual-studio-code/resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:96171)
+    at runCallback (timers.js:789:20)
+    at tryOnImmediate (timers.js:751:5)
+    at processImmediate [as _immediateCallback] (timers.js:722:5)
+[Error - 5:22:27 PM] Error while computing completions for file:///home/lvzbel/GitHub/Advance-CSS-Sass-Course/Natours/sass/components/_form.scss: e.getProperty is not a function
+TypeError: e.getProperty is not a function
+    at t.e.getPropertyProposals (/opt/visual-studio-code/resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:533026)
+    at t.e.getCompletionsForDeclarationProperty (/opt/visual-studio-code/resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:532796)
+    at t.getCompletionsForDeclarationProperty (/opt/visual-studio-code/resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:591744)
+    at t.e.getCompletionsForDeclarations (/opt/visual-studio-code/resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:544093)
+    at t.e.doComplete (/opt/visual-studio-code/resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:531045)
+    at l.runSafe (/opt/visual-studio-code/resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:70727)
+    at Immediate.setImmediate (/opt/visual-studio-code/resources/app/extensions/css-language-features/server/dist/cssServerMain.js:1:96171)
+    at runCallback (timers.js:789:20)
+    at tryOnImmediate (timers.js:751:5)
+    at processImmediate [as _immediateCallback] (timers.js:722:5)

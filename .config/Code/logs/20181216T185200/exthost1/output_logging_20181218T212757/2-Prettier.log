@@ -1,0 +1,11 @@
+12/18/2018, 10:02:56 PM:
+------------------------
+Unexpected token, expected "," (/home/lvzbel/GitHub/react-course-projects/expensify-app/src/components/ExpenseListFilters.js:7:26)
+   5 | class ExpenseListFilters extends React.Component{
+   6 |   state = {
+>  7 |     calendarFocused: null;
+     |                          ^
+   8 |   };
+   9 |   
+  10 |   render() {
+

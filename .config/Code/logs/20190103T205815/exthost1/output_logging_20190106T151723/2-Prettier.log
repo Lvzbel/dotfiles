@@ -1,0 +1,42 @@
+1/6/2019, 4:50:20 PM:
+---------------------
+Unexpected token, expected "}" (/home/lvzbel/GitHub/mosh-react/counter-app/src/components/counter.jsx:20:37)
+  18 |         <button
+  19 |           onClick={() => 
+> 20 |             this.props.onIncrement();
+     |                                     ^
+  21 | }
+  22 |           className="btn btn-secondary btn-sm"
+  23 |         >
+
+1/6/2019, 7:31:20 PM:
+---------------------
+Unexpected token, expected "," (/home/lvzbel/GitHub/mosh-react/counter-app/src/components/navbar.jsx:11:9)
+   9 |       </span>
+  10 |     </a>
+> 11 |   </nav>;
+     |         ^
+  12 | );
+  13 | 
+  14 | export default NavBar;
+
+1/6/2019, 7:34:25 PM:
+---------------------
+Expecting Unicode escape sequence \uXXXX (/home/lvzbel/GitHub/mosh-react/counter-app/src/components/navbar.jsx:15:2)
+  13 |  
+  14 | export default Navbar;
+> 15 | \\
+     |  ^
+  16 | 
+
+1/6/2019, 8:58:43 PM:
+---------------------
+Unexpected token (/home/lvzbel/GitHub/mosh-react/counter-app/src/App.js:66:47)
+  64 |             onReset={this.handleReset}
+  65 |             onIncrement={this.handleIncrement}
+> 66 |             onDecrement={this.handleDecrement};
+     |                                               ^
+  67 |             onDelete={this.handleDelete}
+  68 |           />
+  69 |         </main>
+

@@ -1,0 +1,22 @@
+1/9/2019, 9:16:55 AM:
+---------------------
+Unexpected token, expected "}" (/home/lvzbel/GitHub/mosh-react/vidly/src/components/common/pagination.jsx:17:47)
+  15 |       <ul className="pagination">
+  16 |         {pages.map(page => (
+> 17 |           <li className={page === currentPage : "page-item active" ? "page-item"} key={page}>
+     |                                               ^
+  18 |             <a onClick={() => onPageChange(page)} className="page-link">
+  19 |               {page}
+  20 |             </a>
+
+1/9/2019, 9:25:04 AM:
+---------------------
+Unexpected token (/home/lvzbel/GitHub/mosh-react/vidly/src/utils/paginate.js:3:17)
+  1 | import _ from "lodash";
+  2 | 
+> 3 | export function (items, pageNumber, pageSize) {
+    |                 ^
+  4 |   // You gotta learn and understand how this works. Maybe create the algorithm from cratch?
+  5 |   const startIndex = (pageNumber -1) * pageSize;
+  6 |   return _(items).slice(startIndex).take(pageSize).value();
+

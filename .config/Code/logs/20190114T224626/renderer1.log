@@ -1,0 +1,5 @@
+[2019-01-14 22:46:28.798] [renderer1] [info] no standard startup: not the explorer viewlet
+[2019-01-14 22:46:28.831] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: {1}
+[2019-01-14 22:50:59.267] [renderer1] [info] no standard startup: not just one text editor
+[2019-01-14 22:50:59.274] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: {1}
+[2019-01-15 00:16:25.456] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

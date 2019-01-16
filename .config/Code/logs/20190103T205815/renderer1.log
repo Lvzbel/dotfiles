@@ -1,0 +1,14 @@
+[2019-01-03 20:58:18.386] [renderer1] [info] no standard startup: not running latest version
+[2019-01-03 21:00:43.081] [renderer1] [info] no standard startup: not a new window
+[2019-01-03 21:47:29.538] [renderer1] [info] no standard startup: not a new window
+[2019-01-03 21:48:01.417] [renderer1] [info] no standard startup: not just one text editor
+[2019-01-03 21:49:58.429] [renderer1] [error] Failed snippets from folder 'file:///home/lvzbel/GitHub/mosh-react/.vscode' {"errno":-2,"code":"ENOENT","syscall":"stat","path":"/home/lvzbel/GitHub/mosh-react/.vscode"}
+[2019-01-03 21:49:58.431] [renderer1] [error] Failed snippets from folder 'file:///home/lvzbel/GitHub/mosh-react/.vscode' {"errno":-2,"code":"ENOENT","syscall":"stat","path":"/home/lvzbel/GitHub/mosh-react/.vscode"}
+[2019-01-03 21:49:58.534] [renderer1] [error] Failed snippets from folder 'file:///home/lvzbel/GitHub/mosh-react/.vscode' {"errno":-2,"code":"ENOENT","syscall":"stat","path":"/home/lvzbel/GitHub/mosh-react/.vscode"}
+[2019-01-03 21:49:58.731] [renderer1] [error] Failed snippets from folder 'file:///home/lvzbel/GitHub/mosh-react/.vscode' {"errno":-2,"code":"ENOENT","syscall":"stat","path":"/home/lvzbel/GitHub/mosh-react/.vscode"}
+[2019-01-04 20:57:49.354] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-04 20:57:52.643] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-04 21:13:13.506] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-05 21:22:13.196] [renderer1] [info] no standard startup: not just one text editor
+[2019-01-06 15:17:23.175] [renderer1] [info] no standard startup: not just one text editor
+[2019-01-06 21:25:45.040] [renderer1] [info] no standard startup: not a new window

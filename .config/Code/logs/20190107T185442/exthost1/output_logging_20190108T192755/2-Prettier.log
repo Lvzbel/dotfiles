@@ -1,0 +1,96 @@
+1/8/2019, 7:44:31 PM:
+---------------------
+Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (/home/lvzbel/GitHub/my-react-projects/todo-list/src/App.js:9:7)
+   7 |     return (
+   8 |       <NavBar />
+>  9 |       <main role="main" className="container">
+     |       ^
+  10 |         
+  11 |       </main>
+  12 |     );
+
+1/8/2019, 7:53:11 PM:
+---------------------
+Unexpected token (/home/lvzbel/GitHub/my-react-projects/todo-list/src/App.js:12:5)
+  10 |       note: 'I just started this one this week',
+  11 |       deadline: 
+> 12 |     }
+     |     ^
+  13 |   ]
+  14 |   render() {
+  15 |     return (
+
+1/8/2019, 8:34:12 PM:
+---------------------
+Unexpected token (/home/lvzbel/GitHub/my-react-projects/todo-list/src/components/todo.jsx:22:15)
+  20 | 
+  21 |   render() { 
+> 22 |     return (  );
+     |               ^
+  23 |   }
+  24 | }
+  25 |  
+
+1/8/2019, 8:39:13 PM:
+---------------------
+Unexpected token, expected "{" (/home/lvzbel/GitHub/my-react-projects/todo-list/src/App.js:18:22)
+  16 |         expiration: moment(),
+  17 |         completed: false
+> 18 |       },{renderTodo()}
+     |                      ^
+  19 |       {
+  20 |         id: "2",
+  21 |         title: "React with Mosh",
+
+1/8/2019, 8:45:07 PM:
+---------------------
+Unexpected token (/home/lvzbel/GitHub/my-react-projects/todo-list/src/components/todo.jsx:3:12)
+  1 | import React, { Component } from "react";
+  2 | 
+> 3 | const Todo => props (
+    |            ^
+  4 |   <React.Fragment>
+  5 |     Hevo
+  6 |   </React.Fragment>
+
+1/8/2019, 8:48:50 PM:
+---------------------
+Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (/home/lvzbel/GitHub/my-react-projects/todo-list/src/components/todo.jsx:8:9)
+   6 |       return (
+   7 |         <th scope="row">todo.id</th>
+>  8 |         <td>todo.title</td>
+     |         ^
+   9 |         <td>todo.note</td>
+  10 |         <td>todo.expected</td>
+  11 |         )
+
+1/8/2019, 8:49:21 PM:
+---------------------
+Unexpected token (/home/lvzbel/GitHub/my-react-projects/todo-list/src/components/todo.jsx:19:1)
+  17 | 
+  18 | export default Todo;
+> 19 | 
+     | ^
+
+1/8/2019, 8:49:53 PM:
+---------------------
+Expected corresponding JSX closing tag for <tr> (/home/lvzbel/GitHub/my-react-projects/todo-list/src/components/todo.jsx:15:3)
+  13 |         )
+  14 |     })}
+> 15 |   </React.Fragment>
+     |   ^
+  16 | );
+  17 | 
+  18 | export default Todo;
+
+1/8/2019, 9:35:13 PM:
+---------------------
+Expected corresponding JSX closing tag for <input> (/home/lvzbel/GitHub/my-react-projects/todo-list/src/components/form.jsx:9:7)
+   7 |       <div class="col">
+   8 |         <input type="text" class="form-control" placeholder="First name">
+>  9 |       </div>
+     |       ^
+  10 |       <div class="col">
+  11 |         <input type="text" class="form-control" placeholder="Last name">
+  12 |       </div>
+
